@@ -8,4 +8,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Prevent unexpected/unwanted changes in your local repository.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
 
